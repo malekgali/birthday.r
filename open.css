@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+
+h2{
+    color:#03bcf4;
+    text-decoration: underline wavy;  
+    text-decoration-color: white; 
+}
+p{
+    color:wheat;
+    font-size: 1.3em;
+}
+a{
+    font-size: 30px;
+    justify-content:left;
+    align-items: left;
+    text-align:left;
+    position: left;
+    color: rgb(0, 183, 255);
+}
+img{
+    width: 350px;
+}

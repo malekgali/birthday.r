@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+h2{
+    color:rgb(255, 0, 0);
+}
+h3{
+    color:white;
+}
+p{
+    color: burlywood;
+}
+a{
+    font-size: 30px;
+    justify-content:left;
+    align-items: left;
+    text-align:left;
+    position: left;
+    color: rgb(0, 183, 255);
+}
+img{
+    width: 600px;
+}
